@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm an aspiring Web Developer passionate about creating cl
 ## 🚀 About Me
 - 🌱 Currently learning **Front-End Web Development**
 - 💻 Skilled in **HTML, CSS, JavaScript**
-- 🎯 Goal: Become a full-fledged Front-End Developer
+- 🎯 Goal: Become a full-Stack Developer
 - 📚 Always exploring new tools and best practices in web development
 - 🔍 Actively looking for **internship opportunities**
 - 🧩 I enjoy solving problems, building interfaces, and improving user experiences
