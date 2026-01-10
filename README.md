@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Marlon Lamer  
 ### 🌐 Aspiring Web Developer
 
-Welcome to my GitHub! I'm an aspiring Web Developer passionate about creating clean, responsive, and user-friendly websites. I love turning ideas into functional front-end projects and continuously improving my skills through hands-on practice.
+Welcome to my GitHub! I'm an aspiring Full-Stack Developer passionate about creating clean, responsive, and user-friendly websites. I love turning ideas into functional front-end projects and continuously improving my skills through hands-on practice.
 
 ---
 
 ## 🚀 About Me
 - 🌱 Currently learning **Front-End Web Development**
 - 💻 Skilled in **HTML, CSS, JavaScript**
-- 🎯 Goal: Become a full-Stack Developer
+- 🎯 Goal: Become a **Full-Stack Developer**
 - 📚 Always exploring new tools and best practices in web development
 - 🔍 Actively looking for **internship opportunities**
 - 🧩 I enjoy solving problems, building interfaces, and improving user experiences
