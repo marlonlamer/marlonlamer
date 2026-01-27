@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm an aspiring Full-Stack Developer passionate about crea
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **Front-End Web Development**
+- 🌱 Currently learning **React js**
 - 💻 Skilled in **HTML, CSS, JavaScript**
 - 🎯 Goal: Become a **Full-Stack Developer**
 - 📚 Always exploring new tools and best practices in web development
