@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Marlon Lamer  
 ### 🌐 Aspiring Web Developer
 
-Welcome to my GitHub! I'm an aspiring Full-Stack Developer passionate about creating clean, responsive, and user-friendly websites. I love turning ideas into functional front-end projects and continuously improving my skills through hands-on practice.
+Welcome to my GitHub! I'm an aspiring Full-Stack Developer passionate about creating clean, responsive, and user-friendly websites. I love turning ideas into functional projects and continuously improving my skills through hands-on practice.
 
 ---
 
@@ -20,6 +20,7 @@ Welcome to my GitHub! I'm an aspiring Full-Stack Developer passionate about crea
 - **HTML5**
 - **CSS3 (Flexbox, Grid, Responsive Design)**
 - **JavaScript (ES6+)**
+- **React Js**
 - **Git & GitHub**
 - **VS Code**
 
