@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm an aspiring Full-Stack Developer passionate about crea
 - 💻 Skilled in **HTML, CSS, JavaScript**
 - 🎯 Goal: Become a **Full-Stack Developer**
 - 📚 Always exploring new tools and best practices in web development
-- 🔍 Actively looking for **internship opportunities**
+- 🔍 Actively looking for **job opportunities**
 - 🧩 I enjoy solving problems, building interfaces, and improving user experiences
 
 ---
